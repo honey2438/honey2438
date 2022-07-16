@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **honeysirohi2438@gmail.com**
 
-- ⚡ Fun fact **I learnt the front end development in a single month**
+- ⚡ Fun fact **Two Third of Web Usage is on Mobile Devicesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
