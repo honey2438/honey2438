@@ -19,14 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/devanshsirohi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshsirohi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devansh-sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-sirohi" height="30" width="40" /></a>
-<a href="https://fb.com/devansh sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devansh sirohi" height="30" width="40" /></a>
-<a href="https://instagram.com/_dev.anx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dev.anx_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devansh sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devansh sirohi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/honeysirohi2438" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="honeysirohi2438" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/devanshsirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devansh sirohi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/honeysirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="honeysirohi2438" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/honeysirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="honeysirohi2438" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/honeysirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="honeysirohi2438" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/honeysirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="honeysirohi2438" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
