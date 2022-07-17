@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/devanshsirohi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshsirohi2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devansh-sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-sirohi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devanshsirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devansh sirohi" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UC-fWkoUD-OvxgN9e0kvYUEg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devansh sirohi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/honeysirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="honeysirohi2438" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/honeysirohi2438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="honeysirohi2438" height="30" width="40" /></a>
 </p>
