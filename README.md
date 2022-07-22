@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Survey Website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Web Development, Software Engineering**
 
 - 📫 How to reach me **honeysirohi2438@gmail.com**
 
-- ⚡ Fun fact **Two Third of Web Usage is on Mobile Devicesh**
+- ⚡ Fun fact **Two Third of Web Usage is on Mobile Devices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
