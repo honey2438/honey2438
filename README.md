@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Web Development, Software Engineering**
+- 💬 Ask me about **Web Development, Android App Development**
 
 - 📫 How to reach me **honeysirohi2438@gmail.com**
 
