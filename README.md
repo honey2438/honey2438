@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Devansh Sirohi</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Survey Website**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Web Development, Android App Development**
+- 💬 Ask me about **Web App Development**
 
 - 📫 How to reach me **honeysirohi2438@gmail.com**
 
