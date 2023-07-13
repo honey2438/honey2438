@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Web App Development**
 
