@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devansh Sirohi</h1>
-<h3 align="center">A passionate full stack from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💬 Ask me about **Web App Development & AI Integration**
